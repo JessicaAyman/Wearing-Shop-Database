@@ -7,8 +7,7 @@ This project is a comprehensive SQL Server database designed and implemented dur
 * Abdelrahman Ashraf
 * Ahmed Abdelhafeez
 
-## 👨‍🏫 Special Thanks
-To our amazing instructors at ITI: **Eng. Shahinaz** & **Eng. Mariana**.
+
 
 ## 🚀 Key Features & Technical Implementation
 
